@@ -3,7 +3,7 @@
 ## GUI
 ![](./design/gui.png)
 ### Input Data 
-The data must be in JSON format (a single JSON object per line), sample data can be viewed [here](./data).
+The data must be in JSON format (a single JSON object per line), sample data can be viewed [here](./src/data).
 
 ### Usage Guide
 The interface includes every function of the program. The top bar holds the file path for the JSON file which can be specified by the user. The application uses relative paths therefore it is recommended the JSON file is located in the same directory as the program executable. Clicking ‘Select’ initialises the program to fetch and read the JSON file, with the output in the textbox below the top bar. If the program detects that the JSON file is invalid or cannot be read, this will be indicated within the textbox.

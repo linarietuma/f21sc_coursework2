@@ -8,11 +8,11 @@ Developed by:
 
 ## Application 
 ![](./design/gui.png)
-The application analyses document usage data on [issuu.com](https://issuu.com) website. For a given document, a user can determine from which countries, continents and using what agent the document has been viewed. In addition, the app offers information on reader profiles and information about related documents based on document tracking information ('Also Likes' graph). 
+The application analyses document usage data from [issuu.com](https://issuu.com) website. For a given document, a user can determine from which countries, continents and using what agent the document has been viewed. In addition, the app offers information on reader profiles and information about related documents based on document tracking information ('Also Likes' graph). 
 ![](./design/also_likes.png)
 
 ## Usage 
-The application offers a simple GUI but can also be used from a command line interface. For a detailed guide on application usage see [here](./user_guide.md)
+The application offers a simple GUI but can also be used from a command line interface. For a detailed guide on application usage see [here](./user_guide.md).
 
 ## Built With 
 The application is built in Python (3.8.12) and utilizes the following libraries:
