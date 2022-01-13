@@ -10,11 +10,12 @@ The interface includes every function of the program. The top bar holds the file
 The user and document UUIDs can be specified by typing into the associated input boxes within the bottom bar, and then clicking confirm to source the requested data. To request a data analysis function, select one of the buttons at the bottom of the window to perform the analysis. Some instances will have an output in the main text box above, for example ‘Top 10 Readers’, while graphs will generate a new file and save it within the directory of the main program.
 
 ### Button to-task Guide
-- Task 2a and 2b can be fulfilled through button ‘Views by Country’ and ‘Views by Continent’ respectively.
-- Task 3b can be fulfilled through button ‘Views by Browser’
-- Task 4 can be fulfilled through button ‘Top 10 Readers’
-- Task 5d can be fulfilled through button ‘Top Also Likes Docs’
-- Task 6 can be fulfilled through button ‘Also likes graph’
+- Task 2a and 2b relate to ‘Views by Country’ and ‘Views by Continent’ buttons respectively.
+- Task 3b relates to ‘Views by Browser’ button
+- Task 4 relates to ‘Top 10 Readers’ button
+- Task 5d relates to ‘Top Also Likes Docs’ button
+- Task 6 relates to ‘Also likes graph’ button
+- Task 7 opens the GUI
 
 ## Command Line Interface
 The following command structure is used for the command line interface:
